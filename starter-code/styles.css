@@ -1,0 +1,73 @@
+/* Global */
+* {
+	font-family: "Arial";
+
+}
+
+/* Navbar Section */
+nav {
+	background-color: #c12127;
+	color: rgba(255,255,255,0.8);
+	padding-top: 15px;
+	height: 35px;
+}
+
+nav a {
+	color: rgba(255,255,255,0.8);
+	text-decoration: none;
+}
+
+.navbar-title {
+	font-family: "Arial";
+	display: inline-block;
+	padding-left: 15px;
+}
+
+.navbar-links {
+	display: inline-block;
+	float: right;
+	padding: 0;
+	margin: 0 20px 0 0;
+}
+
+.navbar-links li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+/* Section 1 Block Area */
+.Section-1-Block {
+	background-image: url("/home/chris/lab-html-module-exercise/starter-code/images/city-scape.svg");
+	position: relative;
+}
+
+.logo {
+	width: 200px;
+	height: auto;
+	padding: 15px;
+}
+
+.section-1-prompt {
+	padding: 15px;
+	color: white;
+	position: relative;
+	width: 35%;
+	height: auto;
+	bottom: 40px;
+}
+
+/* Section 2 Block Area */
+.Section-2-Block {
+	background-color: rgb(39, 53, 71);
+}
+	
+.collab-image {
+	width: 50%;
+	height: auto;
+}
+
+.section-2-prompt {
+	float: right;
+}
+
+
